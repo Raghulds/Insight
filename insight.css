@@ -1,0 +1,35 @@
+.flex-container{
+	display: flex;
+}
+#contain {
+	/*background-image: url(bg2.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	height: 600px;
+	background-color: #d68119;	
+}
+.jumbotron{
+	text-align: center;
+}
+#buttons{
+	display: flex;
+	margin-left: 250px;
+	margin-bottom: 20px;
+}
+.grid{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+#more{
+	border:2px solid grey;
+	border-radius: 18px;
+	padding-left: 70px;
+	padding-right: 70px;
+	margin-left: 45%;
+	margin-bottom: 100px;
+	letter-spacing: 2px;
+	font-weight: 2em;
+}
